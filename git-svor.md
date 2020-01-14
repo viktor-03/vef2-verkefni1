@@ -19,3 +19,6 @@
 4. vað er útgáfustýring (Version Control)?
   *  það er týpa af kerfi sem að leyfir þér að halda utan um breytingar sem að maður gerir 
 
+5. verjir eru helstu kostir við að nota GIT?
+  * maður getur haldið vel utanum skjölin sem að maður er að vinna í
+
