@@ -22,3 +22,6 @@
 5. verjir eru helstu kostir við að nota GIT?
   * maður getur haldið vel utanum skjölin sem að maður er að vinna í
 
+6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+  * eftir að maður er búinn að gera nokkrar spurningar myndi ég segja
+
