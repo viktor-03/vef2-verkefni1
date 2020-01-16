@@ -16,3 +16,6 @@
   * git checkout er þegar farið er á milli greina notum við skipunina checkout
   * git branch sýnir lista yfir allar staðtengdar greinar
 
+4. vað er útgáfustýring (Version Control)?
+  *  það er týpa af kerfi sem að leyfir þér að halda utan um breytingar sem að maður gerir 
+
